@@ -37,18 +37,19 @@
 }
 .paragraph {
   position: absolute;
-  top: 42%;
+  top: 38%;
   width: 100%;
   text-align: justify;
   color: #ffffff;
   font-size: 25px;
-  margin-left: 200px;
+  margin-left: 220px;
 }
 
 .card-group {
   margin: 30px 5px 30px 5px;
   justify-content: center;
 }
+
 .detail img {
   margin-left: 100px;
   width: 500px;
